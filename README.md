@@ -8,7 +8,7 @@ It can be found [here](https://arxiv.org/abs/2606.04153).
 
 The dataset used in this paper was curated by Amit Goyal.
 
-Can be obtained from [here](https://sites.google.com/view/agoyal145).
+The dataset can be found [here](https://sites.google.com/view/agoyal145).
 
 It is an excel file found under the subheading "A Comprehensive 2022 Look at the Empirical Performance of Equity Premium Prediction".
 
