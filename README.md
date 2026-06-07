@@ -13,3 +13,6 @@ The dataset can be found [here](https://sites.google.com/view/agoyal145).
 It is an excel file found under the subheading "A Comprehensive 2022 Look at the Empirical Performance of Equity Premium Prediction".
 
 Since I am only interested in the monthly data, I have used the file "Data2024.xlsx - Monthly.csv".
+
+
+## Work being done
